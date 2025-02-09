@@ -1,0 +1,1 @@
+This repository demonstrates a common CSS error: a missing closing curly brace in a selector.  The `bug.css` file contains the erroneous code, while `bugSolution.css` provides the corrected version.  This can lead to unexpected styling effects across your webpage.
